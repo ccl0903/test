@@ -1,8 +1,9 @@
 #include <stdio.h>
+#中煤神马
 
 int main(){
-	
+	//what
 	char str[] =  "hello world!";
-	printf("%s\n",str);
 }
+//快跑
 
